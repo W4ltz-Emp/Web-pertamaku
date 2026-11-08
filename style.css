@@ -1,0 +1,32 @@
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f0f4f8;
+                color: #333;
+                max-width: 600px;
+                margin: 40px auto;
+                padding: 0 20px;
+                text-align: center;
+            }
+            img {
+                width:  100px;
+                border-radius: 50%;
+            }
+                h1{
+                    color :blueviolet;
+                }
+                ul{
+                    list-style: none;
+                    padding: 0;
+
+                }
+                a {
+                    color: #1e4ed8;
+                    font-weight: bold;
+
+                }
+         
+                h2{
+                    color: #1e4ed8;
+                    font-weight: bold;
+                }
+        
